@@ -60,7 +60,7 @@ def get_message_interval() -> int:
 
 # Define some lists for generating buzz messages
 ADJECTIVES: list = ["amazing", "too much", "boring", "not enough", "exciting", "weird"]
-ACTIONS: list = ["made", "lost", "gained", "raised", "spent"]
+ACTIONS: list = ["made", "lost", "gained", "raised", "spent" , "put", "wagered"]
 TOPICS: list = ["$50.00", "$1000.00", "$20000.00", "$130000.00", "$343.00", "$4000.00", "$53000.00", "$275000.00", "$1.50"]
 ACTIVITIES: list = ["Penny Stock", "Fantesy Football", "Sports Betting", "Stock Options", "Ethereum", "QQQ ETF"]
 TIME: list = ["yesterday", "an hour ago", "today", "last week", "last month"]
