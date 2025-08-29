@@ -52,9 +52,13 @@ def process_message(log_file) -> None:
             print(f"Consumed log message: {message}")
 
             # monitor and alert on special conditions
-            if "I just loved a movie! It was funny." in message:
+            
+            if  "$275,000.00" in message or "$130,000.00" in message:
                 print(f"ALERT: The special message was found! \n{message}")
                 logger.warning(f"ALERT: The special message was found! \n{message}")
+                time.sleep(5)  # Delay for 5 seconds
+                # Allow the program to continue checking for messages.
+                continue
 
 
 #####################################

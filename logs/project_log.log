@@ -19368,3 +19368,219 @@
 2025-08-28 20:33:29.583 | INFO     | __main__:main:118 - I just gained $4,000.00 on Stock Options yesterday! It was exhilarating.
 2025-08-28 20:33:32.586 | INFO     | __main__:main:118 - I just spent $4,000.00 on Penny Stock today! It was exciting.
 2025-08-28 20:33:35.591 | INFO     | __main__:main:118 - I just raised $50.00 on Stock Options last week! It was boring.
+2025-08-28 21:01:04.248 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-28 21:01:04.248 | INFO     | __main__:main:110 - START producer...
+2025-08-28 21:01:04.248 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-08-28 21:01:04.248 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-28 21:01:04.248 | INFO     | __main__:main:118 - I just lost $1,000.00 on Stock Options yesterday! It was weird.
+2025-08-28 21:01:07.262 | INFO     | __main__:main:118 - I just lost $1,000.00 on TQQQ ETF yesterday! It was amazing.
+2025-08-28 21:01:10.264 | INFO     | __main__:main:118 - I just gained $50.00 on TQQQ ETF last month! It was too much.
+2025-08-28 21:01:13.266 | INFO     | __main__:main:118 - I just made $130,000.00 on Fantesy Football last month! It was boring.
+2025-08-28 21:01:16.267 | INFO     | __main__:main:118 - I just spent $275,000.00 on Penny Stock last month! It was weird.
+2025-08-28 21:01:19.268 | INFO     | __main__:main:118 - I just spent $275,000.00 on Sports Betting last month! It was too much.
+2025-08-28 21:01:22.269 | INFO     | __main__:main:118 - I just lost $343.00 on TQQQ ETF today! It was amazing.
+2025-08-28 21:01:25.270 | INFO     | __main__:main:118 - I just lost $343.00 on TQQQ ETF last month! It was amazing.
+2025-08-28 21:01:28.271 | INFO     | __main__:main:118 - I just lost $275,000.00 on Ethereum yesterday! It was exciting.
+2025-08-28 21:01:31.273 | INFO     | __main__:main:118 - I just wagered $53,000.00 on Penny Stock last week! It was amazing.
+2025-08-28 21:01:34.276 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Ethereum last month! It was too much.
+2025-08-28 21:01:37.285 | INFO     | __main__:main:118 - I just raised $343.00 on TQQQ ETF last week! It was exhilarating.
+2025-08-28 21:01:40.289 | INFO     | __main__:main:118 - I just spent $4,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-28 21:01:43.290 | INFO     | __main__:main:118 - I just made $4,000.00 on Penny Stock today! It was boring.
+2025-08-28 21:01:46.291 | INFO     | __main__:main:118 - I just lost $20,000.00 on Fantesy Football today! It was too much.
+2025-08-28 21:01:49.292 | INFO     | __main__:main:118 - I just put $275,000.00 on TQQQ ETF an hour ago! It was boring.
+2025-08-28 21:01:52.295 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Sports Betting last week! It was weird.
+2025-08-28 21:01:55.299 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Ethereum last month! It was too much.
+2025-08-28 21:01:58.301 | INFO     | __main__:main:118 - I just raised $1,000.00 on Stock Options today! It was exhilarating.
+2025-08-28 21:02:01.303 | INFO     | __main__:main:118 - I just made $130,000.00 on Sports Betting an hour ago! It was not enough.
+2025-08-28 21:02:04.306 | INFO     | __main__:main:118 - I just spent $4,000.00 on Ethereum last week! It was not enough.
+2025-08-28 21:02:07.309 | INFO     | __main__:main:118 - I just wagered $4,000.00 on Ethereum last week! It was not enough.
+2025-08-28 21:02:10.310 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football an hour ago! It was boring.
+2025-08-28 21:02:13.314 | INFO     | __main__:main:118 - I just lost $53,000.00 on Penny Stock today! It was weird.
+2025-08-28 21:02:16.315 | INFO     | __main__:main:118 - I just made $343.00 on Fantesy Football last week! It was not enough.
+2025-08-28 21:02:19.319 | INFO     | __main__:main:118 - I just lost $343.00 on Stock Options last week! It was amazing.
+2025-08-28 21:02:22.320 | INFO     | __main__:main:118 - I just raised $1.50 on Penny Stock today! It was weird.
+2025-08-28 21:02:25.321 | INFO     | __main__:main:118 - I just raised $1.50 on Fantesy Football today! It was too much.
+2025-08-28 21:02:28.325 | INFO     | __main__:main:118 - I just gained $20,000.00 on Ethereum last month! It was boring.
+2025-08-28 21:02:31.328 | INFO     | __main__:main:118 - I just wagered $1.50 on TQQQ ETF last month! It was weird.
+2025-08-28 21:02:34.329 | INFO     | __main__:main:118 - I just lost $275,000.00 on Sports Betting today! It was not enough.
+2025-08-28 21:02:37.333 | INFO     | __main__:main:118 - I just lost $130,000.00 on Penny Stock last week! It was boring.
+2025-08-28 21:02:40.336 | INFO     | __main__:main:118 - I just spent $20,000.00 on Fantesy Football yesterday! It was weird.
+2025-08-28 21:02:43.342 | INFO     | __main__:main:118 - I just spent $4,000.00 on Stock Options today! It was amazing.
+2025-08-28 21:02:46.343 | INFO     | __main__:main:118 - I just put $53,000.00 on TQQQ ETF today! It was boring.
+2025-08-28 21:02:49.344 | INFO     | __main__:main:118 - I just put $50.00 on Ethereum today! It was boring.
+2025-08-28 21:02:52.349 | INFO     | __main__:main:118 - I just made $20,000.00 on TQQQ ETF last week! It was too much.
+2025-08-28 21:02:55.352 | INFO     | __main__:main:118 - I just made $4,000.00 on TQQQ ETF last month! It was boring.
+2025-08-28 21:02:58.354 | INFO     | __main__:main:118 - I just made $4,000.00 on Fantesy Football last week! It was exhilarating.
+2025-08-28 21:03:01.356 | INFO     | __main__:main:118 - I just raised $1.50 on Penny Stock an hour ago! It was exhilarating.
+2025-08-28 21:03:04.359 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options last month! It was not enough.
+2025-08-28 21:03:07.363 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was exhilarating.
+2025-08-28 21:03:10.366 | INFO     | __main__:main:118 - I just gained $1,000.00 on Penny Stock today! It was too much.
+2025-08-28 21:03:13.369 | INFO     | __main__:main:118 - I just spent $50.00 on Fantesy Football last week! It was exciting.
+2025-08-28 21:03:16.373 | INFO     | __main__:main:118 - I just made $20,000.00 on Sports Betting today! It was exhilarating.
+2025-08-28 21:03:19.377 | INFO     | __main__:main:118 - I just wagered $4,000.00 on Sports Betting last week! It was exhilarating.
+2025-08-28 21:03:22.378 | INFO     | __main__:main:118 - I just gained $53,000.00 on Sports Betting an hour ago! It was boring.
+2025-08-28 21:03:25.383 | INFO     | __main__:main:118 - I just made $20,000.00 on Penny Stock yesterday! It was exciting.
+2025-08-28 21:03:28.384 | INFO     | __main__:main:118 - I just raised $50.00 on TQQQ ETF yesterday! It was amazing.
+2025-08-28 21:03:31.387 | INFO     | __main__:main:118 - I just raised $53,000.00 on Penny Stock today! It was boring.
+2025-08-28 21:03:34.388 | INFO     | __main__:main:118 - I just put $4,000.00 on Sports Betting an hour ago! It was boring.
+2025-08-28 21:03:37.392 | INFO     | __main__:main:118 - I just put $343.00 on Ethereum an hour ago! It was amazing.
+2025-08-28 21:03:40.394 | INFO     | __main__:main:118 - I just gained $20,000.00 on Sports Betting an hour ago! It was not enough.
+2025-08-28 21:03:43.396 | INFO     | __main__:main:118 - I just lost $4,000.00 on Stock Options an hour ago! It was too much.
+2025-08-28 21:03:46.401 | INFO     | __main__:main:118 - I just lost $53,000.00 on Sports Betting last week! It was not enough.
+2025-08-28 21:03:49.403 | INFO     | __main__:main:118 - I just gained $50.00 on Sports Betting yesterday! It was exhilarating.
+2025-08-28 21:03:52.406 | INFO     | __main__:main:118 - I just put $4,000.00 on Fantesy Football last week! It was weird.
+2025-08-28 21:03:55.407 | INFO     | __main__:main:118 - I just made $50.00 on Ethereum last month! It was boring.
+2025-08-28 21:03:58.411 | INFO     | __main__:main:118 - I just wagered $1.50 on TQQQ ETF last week! It was weird.
+2025-08-28 21:04:01.414 | INFO     | __main__:main:118 - I just raised $130,000.00 on Sports Betting last month! It was boring.
+2025-08-28 21:04:04.419 | INFO     | __main__:main:118 - I just gained $343.00 on TQQQ ETF last week! It was not enough.
+2025-08-28 21:04:07.428 | INFO     | __main__:main:118 - I just spent $1,000.00 on TQQQ ETF last week! It was not enough.
+2025-08-28 21:04:10.431 | INFO     | __main__:main:118 - I just made $275,000.00 on Sports Betting last month! It was weird.
+2025-08-28 21:04:13.436 | INFO     | __main__:main:118 - I just gained $130,000.00 on Sports Betting last week! It was not enough.
+2025-08-28 21:04:16.438 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was boring.
+2025-08-28 21:04:19.442 | INFO     | __main__:main:118 - I just gained $53,000.00 on Ethereum today! It was exciting.
+2025-08-28 21:04:22.445 | INFO     | __main__:main:118 - I just lost $50.00 on Ethereum last month! It was exciting.
+2025-08-28 21:04:25.447 | INFO     | __main__:main:118 - I just put $4,000.00 on Ethereum an hour ago! It was boring.
+2025-08-28 21:04:28.448 | INFO     | __main__:main:118 - I just wagered $1,000.00 on Stock Options yesterday! It was not enough.
+2025-08-28 21:04:31.449 | INFO     | __main__:main:118 - I just wagered $50.00 on Sports Betting yesterday! It was amazing.
+2025-08-28 21:04:34.454 | INFO     | __main__:main:118 - I just gained $275,000.00 on Ethereum an hour ago! It was boring.
+2025-08-28 21:04:37.457 | INFO     | __main__:main:118 - I just raised $4,000.00 on TQQQ ETF last week! It was too much.
+2025-08-28 21:04:40.461 | INFO     | __main__:main:118 - I just made $1.50 on Ethereum an hour ago! It was weird.
+2025-08-28 21:04:43.464 | INFO     | __main__:main:118 - I just spent $50.00 on Ethereum last week! It was exciting.
+2025-08-28 21:04:46.468 | INFO     | __main__:main:118 - I just wagered $343.00 on Sports Betting last month! It was too much.
+2025-08-28 21:04:49.470 | INFO     | __main__:main:118 - I just lost $343.00 on TQQQ ETF last week! It was weird.
+2025-08-28 21:04:52.472 | INFO     | __main__:main:118 - I just put $1,000.00 on Stock Options today! It was exhilarating.
+2025-08-28 21:04:55.476 | INFO     | __main__:main:118 - I just spent $1,000.00 on Penny Stock an hour ago! It was too much.
+2025-08-28 21:04:58.484 | INFO     | __main__:main:118 - I just made $53,000.00 on Stock Options last month! It was weird.
+2025-08-28 21:05:01.490 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last month! It was weird.
+2025-08-28 21:05:04.494 | INFO     | __main__:main:118 - I just made $1.50 on Ethereum an hour ago! It was exciting.
+2025-08-28 21:05:07.498 | INFO     | __main__:main:118 - I just raised $1,000.00 on TQQQ ETF today! It was boring.
+2025-08-28 21:05:10.502 | INFO     | __main__:main:118 - I just lost $343.00 on Sports Betting today! It was amazing.
+2025-08-28 21:05:13.503 | INFO     | __main__:main:118 - I just raised $53,000.00 on Ethereum an hour ago! It was amazing.
+2025-08-28 21:05:16.507 | INFO     | __main__:main:118 - I just gained $275,000.00 on Ethereum last month! It was too much.
+2025-08-28 21:05:19.516 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options an hour ago! It was too much.
+2025-08-28 21:05:22.521 | INFO     | __main__:main:118 - I just made $1.50 on Sports Betting today! It was boring.
+2025-08-28 21:05:25.525 | INFO     | __main__:main:118 - I just gained $53,000.00 on TQQQ ETF last week! It was weird.
+2025-08-28 21:05:28.528 | INFO     | __main__:main:118 - I just spent $20,000.00 on Fantesy Football today! It was not enough.
+2025-08-28 21:05:31.531 | INFO     | __main__:main:118 - I just made $130,000.00 on TQQQ ETF last month! It was boring.
+2025-08-28 21:05:34.536 | INFO     | __main__:main:118 - I just put $275,000.00 on Fantesy Football last week! It was too much.
+2025-08-28 21:05:37.539 | INFO     | __main__:main:118 - I just gained $343.00 on Fantesy Football an hour ago! It was weird.
+2025-08-28 21:05:40.542 | INFO     | __main__:main:118 - I just lost $275,000.00 on Fantesy Football last week! It was boring.
+2025-08-28 21:05:43.548 | INFO     | __main__:main:118 - I just made $20,000.00 on TQQQ ETF last month! It was boring.
+2025-08-28 21:05:46.552 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF last month! It was exciting.
+2025-08-28 21:05:49.555 | INFO     | __main__:main:118 - I just gained $343.00 on Sports Betting last month! It was exhilarating.
+2025-08-28 21:05:52.559 | INFO     | __main__:main:118 - I just lost $130,000.00 on Sports Betting last week! It was exciting.
+2025-08-28 21:05:55.564 | INFO     | __main__:main:118 - I just put $1,000.00 on Fantesy Football an hour ago! It was too much.
+2025-08-28 21:05:58.567 | INFO     | __main__:main:118 - I just gained $53,000.00 on Penny Stock last month! It was exciting.
+2025-08-28 21:05:59.212 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-28 21:05:59.213 | INFO     | __main__:main:72 - START...
+2025-08-28 21:05:59.213 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-28 21:06:01.570 | INFO     | __main__:main:118 - I just wagered $50.00 on TQQQ ETF today! It was weird.
+2025-08-28 21:06:04.571 | INFO     | __main__:main:118 - I just made $343.00 on Fantesy Football last month! It was exhilarating.
+2025-08-28 21:06:07.572 | INFO     | __main__:main:118 - I just spent $1.50 on Penny Stock last week! It was not enough.
+2025-08-28 21:06:10.575 | INFO     | __main__:main:118 - I just raised $53,000.00 on TQQQ ETF yesterday! It was too much.
+2025-08-28 21:06:13.582 | INFO     | __main__:main:118 - I just lost $50.00 on Penny Stock last month! It was exciting.
+2025-08-28 21:06:16.584 | INFO     | __main__:main:118 - I just raised $20,000.00 on Sports Betting today! It was exciting.
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:20.369 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:22.591 | INFO     | __main__:main:118 - I just gained $343.00 on Sports Betting last month! It was exhilarating.
+2025-08-28 21:06:23.374 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:25.595 | INFO     | __main__:main:118 - I just wagered $4,000.00 on Fantesy Football last month! It was boring.
+2025-08-28 21:06:26.391 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:28.599 | INFO     | __main__:main:118 - I just raised $20,000.00 on Penny Stock yesterday! It was weird.
+2025-08-28 21:06:29.404 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:31.605 | INFO     | __main__:main:118 - I just wagered $1.50 on TQQQ ETF an hour ago! It was too much.
+2025-08-28 21:06:32.420 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:34.607 | INFO     | __main__:main:118 - I just spent $50.00 on Stock Options today! It was amazing.
+2025-08-28 21:06:35.439 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:37.610 | INFO     | __main__:main:118 - I just made $1.50 on Stock Options yesterday! It was amazing.
+2025-08-28 21:06:38.457 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:40.615 | INFO     | __main__:main:118 - I just spent $20,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-28 21:06:41.474 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:43.617 | INFO     | __main__:main:118 - I just lost $1,000.00 on Ethereum last month! It was exhilarating.
+2025-08-28 21:06:44.478 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-28 21:06:19.588 | INFO     | __main__:main:118 - I just made $130,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:06:46.618 | INFO     | __main__:main:118 - I just put $275,000.00 on Stock Options yesterday! It was not enough.
+2025-08-28 21:06:47.173 | INFO     | __main__:main:89 - END.....
+2025-08-28 21:06:49.621 | INFO     | __main__:main:118 - I just made $4,000.00 on TQQQ ETF an hour ago! It was not enough.
+2025-08-28 21:06:52.627 | INFO     | __main__:main:118 - I just put $20,000.00 on Ethereum an hour ago! It was amazing.
+2025-08-28 21:06:55.630 | INFO     | __main__:main:118 - I just lost $50.00 on Ethereum today! It was not enough.
+2025-08-28 21:06:58.634 | INFO     | __main__:main:118 - I just made $50.00 on Stock Options today! It was too much.
+2025-08-28 21:07:01.637 | INFO     | __main__:main:118 - I just spent $53,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-28 21:07:04.638 | INFO     | __main__:main:118 - I just lost $1,000.00 on Stock Options yesterday! It was weird.
+2025-08-28 21:07:07.641 | INFO     | __main__:main:118 - I just wagered $343.00 on Ethereum yesterday! It was exhilarating.
+2025-08-28 21:07:10.644 | INFO     | __main__:main:118 - I just put $275,000.00 on Fantesy Football last month! It was amazing.
+2025-08-28 21:07:13.647 | INFO     | __main__:main:118 - I just gained $4,000.00 on Fantesy Football yesterday! It was weird.
+2025-08-28 21:07:16.650 | INFO     | __main__:main:118 - I just wagered $1.50 on Penny Stock last week! It was boring.
+2025-08-28 21:07:19.653 | INFO     | __main__:main:118 - I just lost $20,000.00 on Fantesy Football last month! It was exciting.
+2025-08-28 21:07:22.654 | INFO     | __main__:main:118 - I just spent $53,000.00 on Stock Options last week! It was boring.
+2025-08-28 21:07:25.657 | INFO     | __main__:main:118 - I just lost $1,000.00 on TQQQ ETF last month! It was not enough.
+2025-08-28 21:07:28.661 | INFO     | __main__:main:118 - I just put $20,000.00 on Sports Betting an hour ago! It was amazing.
+2025-08-28 21:07:31.665 | INFO     | __main__:main:118 - I just lost $130,000.00 on Fantesy Football an hour ago! It was not enough.
+2025-08-28 21:07:34.668 | INFO     | __main__:main:118 - I just lost $53,000.00 on Sports Betting an hour ago! It was too much.
+2025-08-28 21:07:37.672 | INFO     | __main__:main:118 - I just wagered $343.00 on Fantesy Football last month! It was exciting.
+2025-08-28 21:07:40.675 | INFO     | __main__:main:118 - I just put $275,000.00 on Fantesy Football last week! It was boring.
+2025-08-28 21:07:43.680 | INFO     | __main__:main:118 - I just made $343.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-28 21:07:46.682 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum an hour ago! It was exhilarating.
+2025-08-28 21:07:49.683 | INFO     | __main__:main:118 - I just put $20,000.00 on Stock Options today! It was weird.
+2025-08-28 21:07:52.686 | INFO     | __main__:main:118 - I just lost $50.00 on Ethereum yesterday! It was exciting.
+2025-08-28 21:07:55.689 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF today! It was too much.
+2025-08-28 21:07:58.692 | INFO     | __main__:main:118 - I just put $275,000.00 on Penny Stock last month! It was not enough.
+2025-08-28 21:08:01.697 | INFO     | __main__:main:118 - I just raised $50.00 on Fantesy Football an hour ago! It was weird.
+2025-08-28 21:08:04.698 | INFO     | __main__:main:118 - I just gained $1,000.00 on TQQQ ETF last month! It was boring.
+2025-08-28 21:08:07.700 | INFO     | __main__:main:118 - I just spent $275,000.00 on Fantesy Football last month! It was exciting.
+2025-08-28 21:08:10.703 | INFO     | __main__:main:118 - I just made $4,000.00 on Penny Stock yesterday! It was too much.
+2025-08-28 21:08:13.706 | INFO     | __main__:main:118 - I just gained $4,000.00 on Fantesy Football last week! It was not enough.
+2025-08-28 21:08:16.709 | INFO     | __main__:main:118 - I just raised $130,000.00 on Penny Stock last week! It was amazing.
+2025-08-28 21:08:19.714 | INFO     | __main__:main:118 - I just gained $50.00 on Stock Options an hour ago! It was not enough.
+2025-08-28 21:08:22.723 | INFO     | __main__:main:118 - I just made $275,000.00 on Fantesy Football today! It was too much.
+2025-08-28 21:08:25.726 | INFO     | __main__:main:118 - I just spent $1,000.00 on Stock Options last month! It was exciting.
+2025-08-28 21:08:28.733 | INFO     | __main__:main:118 - I just gained $343.00 on Penny Stock last week! It was boring.
+2025-08-28 21:08:31.735 | INFO     | __main__:main:118 - I just put $130,000.00 on Penny Stock yesterday! It was boring.
+2025-08-28 21:08:34.738 | INFO     | __main__:main:118 - I just gained $53,000.00 on Sports Betting last week! It was exhilarating.
+2025-08-28 21:08:37.742 | INFO     | __main__:main:118 - I just wagered $1.50 on Ethereum an hour ago! It was exciting.
+2025-08-28 21:08:40.743 | INFO     | __main__:main:118 - I just spent $275,000.00 on Stock Options yesterday! It was amazing.
+2025-08-28 21:08:43.745 | INFO     | __main__:main:118 - I just raised $20,000.00 on Stock Options an hour ago! It was too much.
+2025-08-28 21:08:46.748 | INFO     | __main__:main:118 - I just spent $20,000.00 on Stock Options last week! It was exhilarating.
+2025-08-28 21:08:49.752 | INFO     | __main__:main:118 - I just lost $53,000.00 on Fantesy Football last month! It was not enough.
+2025-08-28 21:08:52.755 | INFO     | __main__:main:118 - I just raised $1,000.00 on Ethereum an hour ago! It was weird.
+2025-08-28 21:08:55.757 | INFO     | __main__:main:118 - I just wagered $343.00 on Penny Stock last month! It was not enough.
+2025-08-28 21:08:58.763 | INFO     | __main__:main:118 - I just put $1,000.00 on Sports Betting last month! It was exciting.
+2025-08-28 21:09:01.767 | INFO     | __main__:main:118 - I just lost $53,000.00 on Fantesy Football last month! It was exhilarating.
+2025-08-28 21:09:04.770 | INFO     | __main__:main:118 - I just lost $53,000.00 on Ethereum an hour ago! It was exciting.
+2025-08-28 21:09:07.775 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options last month! It was not enough.
+2025-08-28 21:09:10.779 | INFO     | __main__:main:118 - I just raised $1.50 on Ethereum yesterday! It was weird.
+2025-08-28 21:09:13.785 | INFO     | __main__:main:118 - I just spent $50.00 on TQQQ ETF an hour ago! It was weird.
+2025-08-28 21:09:16.788 | INFO     | __main__:main:118 - I just made $1,000.00 on Fantesy Football last week! It was not enough.
+2025-08-28 21:09:19.791 | INFO     | __main__:main:118 - I just wagered $1,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:09:22.794 | INFO     | __main__:main:118 - I just gained $53,000.00 on Stock Options yesterday! It was amazing.
+2025-08-28 21:09:25.797 | INFO     | __main__:main:118 - I just made $1.50 on Stock Options an hour ago! It was too much.
+2025-08-28 21:09:28.799 | INFO     | __main__:main:118 - I just wagered $343.00 on Penny Stock yesterday! It was exciting.
+2025-08-28 21:09:31.800 | INFO     | __main__:main:118 - I just gained $53,000.00 on Sports Betting today! It was exhilarating.
+2025-08-28 21:09:34.804 | INFO     | __main__:main:118 - I just made $1.50 on Ethereum last month! It was exhilarating.
+2025-08-28 21:09:37.807 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock last month! It was exciting.
+2025-08-28 21:09:40.810 | INFO     | __main__:main:118 - I just wagered $20,000.00 on Ethereum last month! It was not enough.
+2025-08-28 21:09:43.818 | INFO     | __main__:main:118 - I just lost $4,000.00 on Ethereum last month! It was not enough.
+2025-08-28 21:09:46.821 | INFO     | __main__:main:118 - I just wagered $1,000.00 on Penny Stock today! It was exhilarating.
+2025-08-28 21:09:49.822 | INFO     | __main__:main:118 - I just put $53,000.00 on Fantesy Football last week! It was weird.
+2025-08-28 21:09:52.826 | INFO     | __main__:main:118 - I just spent $275,000.00 on Sports Betting last week! It was boring.
+2025-08-28 21:09:55.835 | INFO     | __main__:main:118 - I just lost $20,000.00 on Stock Options last month! It was not enough.
+2025-08-28 21:09:58.838 | INFO     | __main__:main:118 - I just wagered $53,000.00 on Stock Options last month! It was boring.
+2025-08-28 21:10:01.841 | INFO     | __main__:main:118 - I just made $343.00 on Ethereum yesterday! It was exhilarating.
+2025-08-28 21:10:04.844 | INFO     | __main__:main:118 - I just spent $4,000.00 on Penny Stock an hour ago! It was boring.
+2025-08-28 21:10:07.846 | INFO     | __main__:main:118 - I just put $1.50 on Penny Stock last month! It was too much.
+2025-08-28 21:10:10.849 | INFO     | __main__:main:118 - I just put $4,000.00 on Fantesy Football an hour ago! It was weird.
+2025-08-28 21:10:13.855 | INFO     | __main__:main:118 - I just made $275,000.00 on Ethereum last month! It was exhilarating.
+2025-08-28 21:10:16.859 | INFO     | __main__:main:118 - I just made $1.50 on Sports Betting an hour ago! It was boring.
+2025-08-28 21:10:19.863 | INFO     | __main__:main:118 - I just made $275,000.00 on TQQQ ETF last month! It was amazing.
+2025-08-28 21:10:22.866 | INFO     | __main__:main:118 - I just lost $275,000.00 on Sports Betting last month! It was boring.
+2025-08-28 21:10:25.869 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock last month! It was amazing.
+2025-08-28 21:10:28.870 | INFO     | __main__:main:118 - I just made $130,000.00 on Sports Betting last week! It was boring.
+2025-08-28 21:10:31.875 | INFO     | __main__:main:118 - I just lost $50.00 on Fantesy Football last month! It was not enough.
