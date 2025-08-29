@@ -19335,3 +19335,36 @@
 2025-08-28 20:21:41.640 | INFO     | __main__:main:118 - I just raised $1,000.00 on Stock Options yesterday! It was too much.
 2025-08-28 20:21:44.641 | INFO     | __main__:main:118 - I just spent $4,000.00 on Sports Betting last month! It was weird.
 2025-08-28 20:21:47.642 | INFO     | __main__:main:118 - I just lost $343.00 on Stock Options an hour ago! It was exciting.
+2025-08-28 20:23:41.672 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-28 20:23:41.674 | INFO     | __main__:main:110 - START producer...
+2025-08-28 20:23:41.675 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-08-28 20:23:41.675 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-28 20:23:41.675 | INFO     | __main__:main:118 - I just gained $53,000.00 on Penny Stock yesterday! It was too much.
+2025-08-28 20:23:44.677 | INFO     | __main__:main:118 - I just made $130,000.00 on Ethereum last week! It was not enough.
+2025-08-28 20:23:47.679 | INFO     | __main__:main:118 - I just wagered $50.00 on QQQ ETF today! It was too much.
+2025-08-28 20:23:50.682 | INFO     | __main__:main:118 - I just spent $53,000.00 on Stock Options yesterday! It was exciting.
+2025-08-28 20:23:53.684 | INFO     | __main__:main:118 - I just gained $50.00 on Ethereum last month! It was exhilarating.
+2025-08-28 20:23:56.685 | INFO     | __main__:main:118 - I just put $4,000.00 on QQQ ETF today! It was not enough.
+2025-08-28 20:23:59.689 | INFO     | __main__:main:118 - I just made $1,000.00 on Ethereum last week! It was not enough.
+2025-08-28 20:24:02.692 | INFO     | __main__:main:118 - I just wagered $343.00 on Stock Options an hour ago! It was exciting.
+2025-08-28 20:24:05.695 | INFO     | __main__:main:118 - I just gained $130,000.00 on Sports Betting last week! It was not enough.
+2025-08-28 20:24:08.698 | INFO     | __main__:main:118 - I just gained $4,000.00 on Penny Stock an hour ago! It was boring.
+2025-08-28 20:24:11.700 | INFO     | __main__:main:118 - I just made $20,000.00 on Sports Betting last week! It was too much.
+2025-08-28 20:24:14.703 | INFO     | __main__:main:118 - I just spent $53,000.00 on Fantesy Football an hour ago! It was boring.
+2025-08-28 20:24:17.705 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Sports Betting yesterday! It was not enough.
+2025-08-28 20:24:20.708 | INFO     | __main__:main:118 - I just raised $53,000.00 on Fantesy Football an hour ago! It was amazing.
+2025-08-28 20:24:23.710 | INFO     | __main__:main:118 - I just raised $343.00 on Penny Stock last week! It was exciting.
+2025-08-28 20:24:26.713 | INFO     | __main__:main:118 - I just put $50.00 on Fantesy Football an hour ago! It was not enough.
+2025-08-28 20:24:29.716 | INFO     | __main__:main:118 - I just wagered $4,000.00 on Fantesy Football yesterday! It was exhilarating.
+2025-08-28 20:24:32.720 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was too much.
+2025-08-28 20:24:35.723 | INFO     | __main__:main:118 - I just made $20,000.00 on QQQ ETF today! It was boring.
+2025-08-28 20:33:20.560 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-28 20:33:20.560 | INFO     | __main__:main:110 - START producer...
+2025-08-28 20:33:20.560 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-08-28 20:33:20.560 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-28 20:33:20.560 | INFO     | __main__:main:118 - I just raised $1.50 on Stock Options last month! It was amazing.
+2025-08-28 20:33:23.576 | INFO     | __main__:main:118 - I just wagered $53,000.00 on QQQ ETF today! It was boring.
+2025-08-28 20:33:26.582 | INFO     | __main__:main:118 - I just wagered $1.50 on Sports Betting yesterday! It was exciting.
+2025-08-28 20:33:29.583 | INFO     | __main__:main:118 - I just gained $4,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-28 20:33:32.586 | INFO     | __main__:main:118 - I just spent $4,000.00 on Penny Stock today! It was exciting.
+2025-08-28 20:33:35.591 | INFO     | __main__:main:118 - I just raised $50.00 on Stock Options last week! It was boring.
