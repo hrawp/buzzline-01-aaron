@@ -19293,3 +19293,16 @@
 2025-08-28 20:04:46.711 | INFO     | __main__:main:118 - I just spent $100005.00 on Ethereum last month! It was not enough.
 2025-08-28 20:04:49.714 | INFO     | __main__:main:118 - I just gained $10004.00 on Fantesy Football today! It was weird.
 2025-08-28 20:04:52.715 | INFO     | __main__:main:118 - I just lost $100005.00 on QQQ ETF last month! It was too much.
+2025-08-28 20:18:58.973 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-28 20:18:59.000 | INFO     | __main__:main:110 - START producer...
+2025-08-28 20:18:59.000 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-08-28 20:18:59.001 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-28 20:18:59.001 | INFO     | __main__:main:118 - I just put $53000.00 on Fantesy Football today! It was amazing.
+2025-08-28 20:19:02.002 | INFO     | __main__:main:118 - I just put $343.00 on Sports Betting last month! It was amazing.
+2025-08-28 20:19:05.006 | INFO     | __main__:main:118 - I just gained $53000.00 on Penny Stock today! It was amazing.
+2025-08-28 20:19:08.009 | INFO     | __main__:main:118 - I just wagered $343.00 on Sports Betting last month! It was amazing.
+2025-08-28 20:19:11.012 | INFO     | __main__:main:118 - I just raised $1000.00 on Stock Options last week! It was not enough.
+2025-08-28 20:19:14.016 | INFO     | __main__:main:118 - I just wagered $20000.00 on Ethereum last week! It was exciting.
+2025-08-28 20:19:17.019 | INFO     | __main__:main:118 - I just wagered $20000.00 on Ethereum an hour ago! It was not enough.
+2025-08-28 20:19:20.020 | INFO     | __main__:main:118 - I just made $130000.00 on Sports Betting an hour ago! It was weird.
+2025-08-28 20:19:23.024 | INFO     | __main__:main:118 - I just spent $4000.00 on QQQ ETF today! It was amazing.
