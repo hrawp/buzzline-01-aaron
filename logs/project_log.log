@@ -25919,3 +25919,364 @@
 2025-08-28 21:21:03.672 | INFO     | __main__:main:89 - END.....
 2025-08-28 21:21:04.268 | INFO     | __main__:main:118 - I just gained $1.50 on Penny Stock yesterday! It was exhilarating.
 2025-08-28 21:21:07.273 | INFO     | __main__:main:118 - I just raised $20,000.00 on Stock Options last week! It was boring.
+2025-08-29 19:32:20.570 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:32:20.641 | INFO     | __main__:main:110 - START producer...
+2025-08-29 19:32:20.641 | INFO     | __main__:main:111 - Hit CTRL c (or CMD c) to close.
+2025-08-29 19:32:20.641 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-08-29 19:32:20.641 | INFO     | __main__:main:118 - I just put $1.50 on Fantesy Football today! It was boring.
+2025-08-29 19:32:23.649 | INFO     | __main__:main:118 - I just put $4,000.00 on Fantesy Football last month! It was not enough.
+2025-08-29 19:32:26.651 | INFO     | __main__:main:118 - I just gained $1.50 on Sports Betting an hour ago! It was exhilarating.
+2025-08-29 19:32:29.652 | INFO     | __main__:main:118 - I just put $343.00 on Fantesy Football last month! It was no big deal.
+2025-08-29 19:32:32.654 | INFO     | __main__:main:118 - I just spent $53,000.00 on Sports Betting today! It was exhilarating.
+2025-08-29 19:32:35.661 | INFO     | __main__:main:118 - I just made $53,000.00 on Sports Betting today! It was boring.
+2025-08-29 19:32:38.670 | INFO     | __main__:main:118 - I just lost $4,000.00 on Stock Options an hour ago! It was no big deal.
+2025-08-29 19:32:41.670 | INFO     | __main__:main:118 - I just gained $20,000.00 on Fantesy Football last month! It was no big deal.
+2025-08-29 19:32:41.977 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:32:41.977 | INFO     | __main__:main:72 - START...
+2025-08-29 19:32:41.977 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:45.019 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:45.939 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:46.847 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:47.676 | INFO     | __main__:main:118 - I just lost $275,000.00 on Fantesy Football yesterday! It was exhilarating.
+2025-08-29 19:32:47.750 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:48.651 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:47.676 | INFO     | __main__:main:118 - I just lost $275,000.00 on Fantesy Football yesterday! It was exhilarating.
+2025-08-29 19:32:49.553 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:50.457 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:47.676 | INFO     | __main__:main:118 - I just lost $275,000.00 on Fantesy Football yesterday! It was exhilarating.
+2025-08-29 19:32:50.677 | INFO     | __main__:main:118 - I just spent $1,000.00 on Ethereum yesterday! It was boring.
+2025-08-29 19:32:51.359 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:44.672 | INFO     | __main__:main:118 - I just raised $275,000.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:32:52.026 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:32:53.680 | INFO     | __main__:main:118 - I just spent $4,000.00 on Fantesy Football today! It was weird.
+2025-08-29 19:32:56.681 | INFO     | __main__:main:118 - I just lost $53,000.00 on Ethereum last month! It was boring.
+2025-08-29 19:32:57.612 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:32:57.612 | INFO     | __main__:main:72 - START...
+2025-08-29 19:32:57.612 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:00.622 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:01.528 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:02.432 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:02.685 | INFO     | __main__:main:118 - I just put $50.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:03.339 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:04.242 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:05.149 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:05.688 | INFO     | __main__:main:118 - I just spent $4,000.00 on Stock Options today! It was exhilarating.
+2025-08-29 19:33:06.052 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:32:59.684 | INFO     | __main__:main:118 - I just made $130,000.00 on Stock Options last month! It was amazing.
+2025-08-29 19:33:06.455 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:33:08.690 | INFO     | __main__:main:118 - I just gained $1,000.00 on Sports Betting last month! It was no big deal.
+2025-08-29 19:33:11.693 | INFO     | __main__:main:118 - I just put $20,000.00 on Fantesy Football yesterday! It was boring.
+2025-08-29 19:33:14.695 | INFO     | __main__:main:118 - I just spent $4,000.00 on Sports Betting yesterday! It was exciting.
+2025-08-29 19:33:15.578 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:33:15.578 | INFO     | __main__:main:72 - START...
+2025-08-29 19:33:15.578 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:18.583 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:19.486 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:20.389 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:20.701 | INFO     | __main__:main:118 - I just lost $1,000.00 on Stock Options today! It was not enough.
+2025-08-29 19:33:21.292 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:22.199 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:23.104 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:23.703 | INFO     | __main__:main:118 - I just gained $50.00 on Ethereum last month! It was weird.
+2025-08-29 19:33:24.010 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:24.913 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:25.821 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:26.706 | INFO     | __main__:main:118 - I just wagered $20,000.00 on Sports Betting yesterday! It was exciting.
+2025-08-29 19:33:26.729 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:27.630 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:28.535 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:17.698 | INFO     | __main__:main:118 - I just spent $275,000.00 on Ethereum yesterday! It was weird.
+2025-08-29 19:33:28.957 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:33:29.707 | INFO     | __main__:main:118 - I just gained $20,000.00 on Ethereum yesterday! It was not enough.
+2025-08-29 19:33:32.708 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Ethereum today! It was exciting.
+2025-08-29 19:33:35.712 | INFO     | __main__:main:118 - I just lost $50.00 on Ethereum last week! It was amazing.
+2025-08-29 19:33:38.715 | INFO     | __main__:main:118 - I just made $1,000.00 on Stock Options an hour ago! It was no big deal.
+2025-08-29 19:33:41.718 | INFO     | __main__:main:118 - I just wagered $343.00 on Ethereum today! It was not enough.
+2025-08-29 19:33:43.791 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:33:43.806 | INFO     | __main__:main:72 - START...
+2025-08-29 19:33:43.806 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:33:44.720 | INFO     | __main__:main:118 - I just made $343.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:33:47.721 | INFO     | __main__:main:118 - I just wagered $50.00 on Sports Betting an hour ago! It was exciting.
+2025-08-29 19:33:50.726 | INFO     | __main__:main:118 - I just lost $1,000.00 on Penny Stock today! It was exhilarating.
+2025-08-29 19:33:53.727 | INFO     | __main__:main:118 - I just gained $50.00 on Stock Options last week! It was exciting.
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:33:56.820 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:33:57.722 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:33:58.625 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:33:59.527 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:33:59.731 | INFO     | __main__:main:118 - I just wagered $1.50 on Sports Betting an hour ago! It was boring.
+2025-08-29 19:34:00.430 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:01.333 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:02.237 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:02.733 | INFO     | __main__:main:118 - I just lost $50.00 on Fantesy Football an hour ago! It was exhilarating.
+2025-08-29 19:34:03.140 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:04.043 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:04.949 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:05.738 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options last week! It was no big deal.
+2025-08-29 19:34:05.863 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:06.766 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:05.738 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options last week! It was no big deal.
+2025-08-29 19:34:07.669 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:08.570 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:05.738 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options last week! It was no big deal.
+2025-08-29 19:34:08.741 | INFO     | __main__:main:118 - I just gained $20,000.00 on Ethereum today! It was exhilarating.
+2025-08-29 19:34:09.474 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:10.377 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:05.738 | INFO     | __main__:main:118 - I just gained $275,000.00 on Stock Options last week! It was no big deal.
+2025-08-29 19:34:11.280 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:33:56.730 | INFO     | __main__:main:118 - I just gained $275,000.00 on Sports Betting yesterday! It was no big deal.
+2025-08-29 19:34:11.530 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:34:11.744 | INFO     | __main__:main:118 - I just made $20,000.00 on Fantesy Football last month! It was boring.
+2025-08-29 19:34:14.297 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:34:14.297 | INFO     | __main__:main:72 - START...
+2025-08-29 19:34:14.297 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:34:14.748 | INFO     | __main__:main:118 - I just lost $1.50 on Stock Options last week! It was not enough.
+2025-08-29 19:34:17.751 | INFO     | __main__:main:118 - I just raised $4,000.00 on Fantesy Football yesterday! It was amazing.
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:21.310 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:22.212 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:23.119 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:23.756 | INFO     | __main__:main:118 - I just put $20,000.00 on TQQQ ETF today! It was not enough.
+2025-08-29 19:34:24.021 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:24.929 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:25.836 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:20.753 | INFO     | __main__:main:118 - I just raised $275,000.00 on Penny Stock an hour ago! It was not enough.
+2025-08-29 19:34:25.864 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:34:26.759 | INFO     | __main__:main:118 - I just wagered $4,000.00 on Ethereum yesterday! It was not enough.
+2025-08-29 19:34:29.276 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:34:29.276 | INFO     | __main__:main:72 - START...
+2025-08-29 19:34:29.276 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:34:29.761 | INFO     | __main__:main:118 - I just raised $20,000.00 on Ethereum last month! It was amazing.
+2025-08-29 19:34:32.765 | INFO     | __main__:main:118 - I just lost $53,000.00 on Penny Stock last week! It was boring.
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:36.298 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:37.205 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:38.111 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:38.768 | INFO     | __main__:main:118 - I just made $275,000.00 on TQQQ ETF last month! It was boring.
+2025-08-29 19:34:39.016 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:39.924 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:38.768 | INFO     | __main__:main:118 - I just made $275,000.00 on TQQQ ETF last month! It was boring.
+2025-08-29 19:34:40.826 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:41.729 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:38.768 | INFO     | __main__:main:118 - I just made $275,000.00 on TQQQ ETF last month! It was boring.
+2025-08-29 19:34:41.771 | INFO     | __main__:main:118 - I just put $53,000.00 on Ethereum last month! It was amazing.
+2025-08-29 19:34:42.632 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:35.766 | INFO     | __main__:main:118 - I just wagered $275,000.00 on Fantesy Football last week! It was not enough.
+2025-08-29 19:34:43.342 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:34:44.772 | INFO     | __main__:main:118 - I just spent $50.00 on Penny Stock an hour ago! It was boring.
+2025-08-29 19:34:47.775 | INFO     | __main__:main:118 - I just lost $50.00 on Stock Options last week! It was boring.
+2025-08-29 19:34:47.834 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:34:47.835 | INFO     | __main__:main:72 - START...
+2025-08-29 19:34:47.835 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:34:50.776 | INFO     | __main__:main:118 - I just lost $1,000.00 on Ethereum last week! It was exciting.
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:53.844 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:54.748 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:55.652 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:56.555 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:56.782 | INFO     | __main__:main:118 - I just gained $4,000.00 on Ethereum yesterday! It was not enough.
+2025-08-29 19:34:57.458 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:58.360 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:59.263 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:34:59.783 | INFO     | __main__:main:118 - I just raised $343.00 on Ethereum today! It was exciting.
+2025-08-29 19:35:00.170 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:34:53.779 | INFO     | __main__:main:118 - I just wagered $130,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:35:00.904 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:35:02.786 | INFO     | __main__:main:118 - I just gained $53,000.00 on Penny Stock yesterday! It was exhilarating.
+2025-08-29 19:35:03.429 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:35:03.429 | INFO     | __main__:main:72 - START...
+2025-08-29 19:35:03.429 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:35:05.787 | INFO     | __main__:main:118 - I just gained $4,000.00 on TQQQ ETF last month! It was weird.
+2025-08-29 19:35:08.791 | INFO     | __main__:main:118 - I just put $275,000.00 on Ethereum an hour ago! It was boring.
+2025-08-29 19:35:09.443 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:08.791 | INFO     | __main__:main:118 - I just put $275,000.00 on Ethereum an hour ago! It was boring.
+2025-08-29 19:35:10.350 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:08.791 | INFO     | __main__:main:118 - I just put $275,000.00 on Ethereum an hour ago! It was boring.
+2025-08-29 19:35:11.254 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:08.791 | INFO     | __main__:main:118 - I just put $275,000.00 on Ethereum an hour ago! It was boring.
+2025-08-29 19:35:11.792 | INFO     | __main__:main:118 - I just gained $53,000.00 on Stock Options last month! It was no big deal.
+2025-08-29 19:35:12.157 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:08.791 | INFO     | __main__:main:118 - I just put $275,000.00 on Ethereum an hour ago! It was boring.
+2025-08-29 19:35:13.011 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:35:14.795 | INFO     | __main__:main:118 - I just spent $53,000.00 on Fantesy Football today! It was amazing.
+2025-08-29 19:35:15.275 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:35:15.275 | INFO     | __main__:main:72 - START...
+2025-08-29 19:35:15.275 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:18.283 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:19.190 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:20.098 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:20.798 | INFO     | __main__:main:118 - I just raised $53,000.00 on Penny Stock last week! It was exciting.
+2025-08-29 19:35:21.000 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:21.902 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:22.804 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:23.706 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:23.800 | INFO     | __main__:main:118 - I just put $343.00 on Fantesy Football last month! It was not enough.
+2025-08-29 19:35:24.608 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:25.510 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:17.797 | INFO     | __main__:main:118 - I just raised $130,000.00 on TQQQ ETF last month! It was exhilarating.
+2025-08-29 19:35:26.056 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:35:26.801 | INFO     | __main__:main:118 - I just wagered $343.00 on Sports Betting today! It was weird.
+2025-08-29 19:35:28.628 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:35:28.628 | INFO     | __main__:main:72 - START...
+2025-08-29 19:35:28.628 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:35:29.801 | INFO     | __main__:main:118 - I just put $20,000.00 on Sports Betting an hour ago! It was boring.
+2025-08-29 19:35:32.834 | INFO     | __main__:main:118 - I just made $343.00 on TQQQ ETF last month! It was exciting.
+2025-08-29 19:35:35.836 | INFO     | __main__:main:118 - I just raised $4,000.00 on Stock Options yesterday! It was boring.
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:39.647 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:40.553 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:41.455 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:41.842 | INFO     | __main__:main:118 - I just gained $343.00 on Fantesy Football yesterday! It was no big deal.
+2025-08-29 19:35:42.358 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:43.264 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:44.169 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:44.845 | INFO     | __main__:main:118 - I just put $4,000.00 on Penny Stock yesterday! It was boring.
+2025-08-29 19:35:45.071 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:45.976 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:46.879 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:47.786 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:47.847 | INFO     | __main__:main:118 - I just spent $53,000.00 on Ethereum last week! It was amazing.
+2025-08-29 19:35:48.689 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:38.839 | INFO     | __main__:main:118 - I just put $130,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:35:49.028 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:35:50.852 | INFO     | __main__:main:118 - I just wagered $50.00 on Penny Stock last week! It was amazing.
+2025-08-29 19:35:51.314 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:35:51.314 | INFO     | __main__:main:72 - START...
+2025-08-29 19:35:51.314 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:54.329 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:55.236 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:56.140 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:56.858 | INFO     | __main__:main:118 - I just made $343.00 on Stock Options yesterday! It was not enough.
+2025-08-29 19:35:57.043 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:57.947 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:58.856 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:35:53.855 | INFO     | __main__:main:118 - I just wagered $130,000.00 on TQQQ ETF last week! It was boring.
+2025-08-29 19:35:59.364 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:35:59.859 | INFO     | __main__:main:118 - I just gained $343.00 on Fantesy Football last month! It was weird.
+2025-08-29 19:36:01.915 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-08-29 19:36:01.915 | INFO     | __main__:main:72 - START...
+2025-08-29 19:36:01.915 | INFO     | __main__:main:78 - Reading file located at logs\project_log.log.
+2025-08-29 19:36:02.862 | INFO     | __main__:main:118 - I just raised $20,000.00 on Penny Stock today! It was no big deal.
+2025-08-29 19:36:05.864 | INFO     | __main__:main:118 - I just put $343.00 on TQQQ ETF last month! It was amazing.
+2025-08-29 19:36:08.867 | INFO     | __main__:main:118 - I just spent $1.50 on Ethereum last week! It was weird.
+2025-08-29 19:36:11.870 | INFO     | __main__:main:118 - I just spent $50.00 on Stock Options yesterday! It was exhilarating.
+2025-08-29 19:36:14.871 | INFO     | __main__:main:118 - I just lost $4,000.00 on Fantesy Football last week! It was exhilarating.
+2025-08-29 19:36:17.876 | INFO     | __main__:main:118 - I just gained $20,000.00 on Stock Options last month! It was no big deal.
+2025-08-29 19:36:20.878 | INFO     | __main__:main:118 - I just gained $50.00 on Ethereum today! It was weird.
+2025-08-29 19:36:23.879 | INFO     | __main__:main:118 - I just made $4,000.00 on Fantesy Football last week! It was boring.
+2025-08-29 19:36:26.880 | INFO     | __main__:main:118 - I just made $50.00 on Stock Options today! It was exhilarating.
+2025-08-29 19:36:29.882 | INFO     | __main__:main:118 - I just spent $53,000.00 on TQQQ ETF last week! It was not enough.
+2025-08-29 19:36:32.885 | INFO     | __main__:main:118 - I just made $4,000.00 on TQQQ ETF last month! It was weird.
+2025-08-29 19:36:35.886 | INFO     | __main__:main:118 - I just raised $4,000.00 on Fantesy Football yesterday! It was exhilarating.
+2025-08-29 19:36:38.887 | INFO     | __main__:main:118 - I just lost $1,000.00 on Stock Options an hour ago! It was exhilarating.
+2025-08-29 19:36:41.888 | INFO     | __main__:main:118 - I just made $1.50 on TQQQ ETF last week! It was exciting.
+2025-08-29 19:36:44.891 | INFO     | __main__:main:118 - I just lost $50.00 on Penny Stock yesterday! It was exhilarating.
+2025-08-29 19:36:47.892 | INFO     | __main__:main:118 - I just gained $50.00 on TQQQ ETF last month! It was no big deal.
+2025-08-29 19:36:50.893 | INFO     | __main__:main:118 - I just spent $53,000.00 on TQQQ ETF today! It was amazing.
+2025-08-29 19:36:53.896 | INFO     | __main__:main:118 - I just made $1,000.00 on Penny Stock last month! It was not enough.
+2025-08-29 19:36:56.899 | INFO     | __main__:main:118 - I just put $1.50 on Ethereum an hour ago! It was no big deal.
+2025-08-29 19:36:59.900 | INFO     | __main__:main:118 - I just gained $1,000.00 on TQQQ ETF yesterday! It was amazing.
+2025-08-29 19:37:02.901 | INFO     | __main__:main:118 - I just gained $4,000.00 on Sports Betting yesterday! It was boring.
+2025-08-29 19:37:05.903 | INFO     | __main__:main:118 - I just made $50.00 on Sports Betting last week! It was no big deal.
+2025-08-29 19:37:08.905 | INFO     | __main__:main:118 - I just spent $343.00 on Ethereum last month! It was not enough.
+2025-08-29 19:37:11.907 | INFO     | __main__:main:118 - I just raised $343.00 on Fantesy Football last week! It was exciting.
+2025-08-29 19:37:14.909 | INFO     | __main__:main:118 - I just put $20,000.00 on TQQQ ETF yesterday! It was boring.
+2025-08-29 19:37:17.912 | INFO     | __main__:main:118 - I just spent $343.00 on TQQQ ETF yesterday! It was exhilarating.
+2025-08-29 19:37:20.915 | INFO     | __main__:main:118 - I just made $1,000.00 on Stock Options an hour ago! It was not enough.
+2025-08-29 19:37:23.918 | INFO     | __main__:main:118 - I just put $343.00 on Penny Stock yesterday! It was amazing.
+2025-08-29 19:37:26.921 | INFO     | __main__:main:118 - I just put $4,000.00 on TQQQ ETF today! It was exciting.
+2025-08-29 19:37:29.922 | INFO     | __main__:main:118 - I just put $343.00 on Ethereum last week! It was exhilarating.
+2025-08-29 19:37:32.923 | INFO     | __main__:main:118 - I just gained $1,000.00 on Penny Stock today! It was weird.
+2025-08-29 19:37:35.926 | INFO     | __main__:main:118 - I just made $50.00 on Stock Options last week! It was exciting.
+2025-08-29 19:37:38.927 | INFO     | __main__:main:118 - I just spent $20,000.00 on Penny Stock last month! It was amazing.
+2025-08-29 19:37:41.931 | INFO     | __main__:main:118 - I just lost $343.00 on Penny Stock last week! It was not enough.
+2025-08-29 19:37:44.935 | INFO     | __main__:main:118 - I just put $130,000.00 on Fantesy Football today! It was exhilarating.
+2025-08-29 19:37:45.170 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:37:44.935 | INFO     | __main__:main:118 - I just put $130,000.00 on Fantesy Football today! It was exhilarating.
+2025-08-29 19:37:46.076 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:37:44.935 | INFO     | __main__:main:118 - I just put $130,000.00 on Fantesy Football today! It was exhilarating.
+2025-08-29 19:37:46.979 | WARNING  | __main__:process_message:58 - ALERT: The special message was found! 
+2025-08-29 19:37:44.935 | INFO     | __main__:main:118 - I just put $130,000.00 on Fantesy Football today! It was exhilarating.
+2025-08-29 19:37:47.278 | INFO     | __main__:main:89 - END.....
+2025-08-29 19:37:47.938 | INFO     | __main__:main:118 - I just wagered $53,000.00 on Fantesy Football an hour ago! It was weird.
+2025-08-29 19:37:50.941 | INFO     | __main__:main:118 - I just lost $20,000.00 on Fantesy Football today! It was exciting.
